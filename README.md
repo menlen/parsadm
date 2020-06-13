@@ -1,1 +1,1 @@
-# parsadm
+# dyadmin
